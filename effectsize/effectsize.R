@@ -2,8 +2,8 @@
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
 # Cohen's d and Hedges g effect size Use cohens_d and hedges_g (effectsize) With (In) R Software
-install.packages("jtools")
-library("jtools")
+install.packages("effectsize")
+library("effectsize")
 # Estimation Cohen's d and Hedges g effect size Use cohens_d and hedges_g (effectsize) With (In) R Software
 effectsize = read.csv("https://raw.githubusercontent.com/timbulwidodostp/effectsize/main/effectsize/effectsize.csv",sep = ";")
 cohens_d_1 <- cohens_d(effectsize_1 ~ effectsize, data = effectsize)
