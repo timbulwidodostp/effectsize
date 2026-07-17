@@ -1,6 +1,8 @@
 # effectsize
 Cohen's d and Hedges g effect size Use cohens_d and hedges_g (effectsize) With (In) R Software
 
+https://www.youtube.com/watch?v=ycPmg_2p8dE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
